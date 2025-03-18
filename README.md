@@ -11,3 +11,6 @@ Como usarlo?
 
 En la sección "Digite el nombre de sus amigos", verás un cuadro de texto donde puedes escribir el nombre de un amigo, escribe el nombre de un amigo y haz clic en el botón "Añadir" para agregarlo a la lista de amigos.
 ![Image](https://github.com/user-attachments/assets/00b387c0-29c9-402b-a5a3-338109f39b9a)
+
+
+Cada vez que añades un nombre, aparecerá en una lista visible debajo del campo de entrada, donde podrás ver todos los amigos que has añadido hasta el momento.
