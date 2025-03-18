@@ -23,3 +23,7 @@ Una vez que hayas agregado todos los amigos que desees, puedes proceder al sorte
 Haz clic en este botón para que el sistema realice el sorteo y aparecerá de manera aleatoria un nombre que hayas ingresado.
 
 ![Image](https://github.com/user-attachments/assets/d1067470-fb84-43b4-9e17-b7585d13072c)
+
+y el nombre ganador es
+
+![Image](https://github.com/user-attachments/assets/09b27543-bbd0-4a04-9afa-19a9367d3bb4)
