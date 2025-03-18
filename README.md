@@ -14,3 +14,5 @@ En la sección "Digite el nombre de sus amigos", verás un cuadro de texto donde
 
 
 Cada vez que añades un nombre, aparecerá en una lista visible debajo del campo de entrada, donde podrás ver todos los amigos que has añadido hasta el momento.
+
+![Image](https://github.com/user-attachments/assets/e02a7e04-5709-46cf-b739-ab7e56fd06ed)
