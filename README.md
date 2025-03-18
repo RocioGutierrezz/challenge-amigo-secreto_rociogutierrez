@@ -21,3 +21,5 @@ Realiza el Sorteo!
 
 Una vez que hayas agregado todos los amigos que desees, puedes proceder al sorteo. Al final de la página, en la sección "Sortear amigo", verás un botón con un ícono de "play" que dice "Sortear amigo".
 Haz clic en este botón para que el sistema realice el sorteo y aparecerá de manera aleatoria un nombre que hayas ingresado.
+
+![Image](https://github.com/user-attachments/assets/d1067470-fb84-43b4-9e17-b7585d13072c)
